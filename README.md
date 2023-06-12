@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
   <body>
-    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"/>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=I'm%20AnYoHan&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"/>
     <h1 align="center">난 안요한이다</br>I'm Ahn Yo Han</br>Je suis An-Yohan.</h1>
     <dt align="center">
     <dt>

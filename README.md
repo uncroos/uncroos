@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
-    <h1>타이틀</h1>
+    <h1 align="center">타이틀</h1>
     <dt>
         <li>연혁1</li>
         <li>연혁2</li>

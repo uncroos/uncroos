@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 align="center">난 안요한이다</h1>
-    <h1 align="center">I'm Ahn Yo Han</h1>
-    <h1 align="center">Je suis An-Yohan.</h1>
+    <h1 align="center">난 안요한이다</br>I'm Ahn Yo Han</br>Je suis An-Yohan.</h1>
+    <dt align="center">
     <dt>
         <li>연혁1</li>
         <li>연혁2</li>

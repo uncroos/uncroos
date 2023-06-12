@@ -29,6 +29,9 @@
           src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
         />
         <br />
+         <img
+          src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"
+        />
       </div>
 </body>
 </html>

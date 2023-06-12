@@ -6,9 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
   <body>
-     <div align="center">
-         ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=timeGradient&&animation=twinkling&height=200&fontSize=60)
-         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)
+    <div align="center" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)>
     <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"/>
     <h1 align="center">난 안요한이다</br>I'm Ahn Yo Han</br>Je suis An-Yohan.</h1>
     <dt align="center">

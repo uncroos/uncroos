@@ -5,9 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-    <body>
+  <body>
     <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"/>
-<body>
     <h1 align="center">난 안요한이다</br>I'm Ahn Yo Han</br>Je suis An-Yohan.</h1>
     <dt align="center">
     <dt>

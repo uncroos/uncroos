@@ -7,7 +7,7 @@
 </head>
   <body>
     <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"/>
-    <div align="center" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)>
+    <div align="center" ![uncroos's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)>
     <h1 align="center">난 안요한이다</br>I'm Ahn Yo Han</br>Je suis An-Yohan.</h1>
     <dt align="center">
     <dt>

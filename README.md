@@ -30,7 +30,7 @@
         </div>
 <div align=center><h1>📚 STATS 📚 </h1></div>
 <div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)
 </body>
 </html>

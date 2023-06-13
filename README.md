@@ -30,7 +30,5 @@
         </div>
 <div align=center><h1>📚 STATS 📚 </h1></div>
 <div align=center>
-    <ing src=#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)>
-    <ing src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)>
-</body>
+    <ing src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical">
 </html>

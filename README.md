@@ -28,7 +28,11 @@
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         </div>
-<div align=center><h1>📚 STATS 📚 </h1></div>
-<div align=center>
-    <ing src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical">
+    <div align=center><h1>📚 STATS 📚 </h1></div>
+    <div align=center>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical"
+      />
+        </div>
+  </body>
 </html>

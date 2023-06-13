@@ -32,6 +32,7 @@
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white">
+        <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
     <div align=center><h1>⭐ STATS ⭐ </h1></div>
     <div align=center>
     <img align="center"

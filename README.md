@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ahn Yo Han's GitHub Profile</title>
-   
 </head>
 <body>
     <div class="container">
@@ -40,12 +39,10 @@
             <br>
             <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
             <img src="https://skillicons.dev/icons?i=windows" alt="Windows 11">
-            <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
         </div>
         <div class="stats">
             <h1>⭐ STATS ⭐</h1>
             <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>
-            <br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=dark" alt="Top Languages"/>
         </div>
         </div>

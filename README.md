@@ -5,47 +5,7 @@
     <meta http-equiv="X-UA-Compatible="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ahn Yo Han's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-        .container {
-            text-align: center;
-            padding: 20px;
-        }
-        .header-img {
-            margin-bottom: 20px;
-        }
-        h1 {
-            font-size: 2em;
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 5px 0;
-        }
-        .badge-container {
-            margin: 20px 0;
-        }
-        .badge-container img {
-            margin: 5px;
-            width: 48px;
-            height: 48px;
-        }
-        .stats img {
-            margin-top: 20px;
-        }
-    </style>
+   
 </head>
 <body>
     <div class="container">
@@ -85,7 +45,9 @@
         <div class="stats">
             <h1>⭐ STATS ⭐</h1>
             <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact" alt="Top Languages"/>
+            <br>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=dark" alt="Top Languages"/>
+        </div>
         </div>
     </div>
 </body>

@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Include gitanimals CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/git-goods/gitanimals/dist/gitanimals.css">
 </head>
 <body>
     <div class="container">
@@ -45,7 +47,15 @@
             <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=dark" alt="Top Languages"/>
         </div>
-        </div>
+        <!-- Include gitanimals -->
+        <script src="https://cdn.jsdelivr.net/gh/git-goods/gitanimals/dist/gitanimals.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                new GitAnimals({
+                    // Customize your gitanimals options here
+                });
+            });
+        </script>
     </div>
 </body>
 </html>

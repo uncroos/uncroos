@@ -6,6 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <a href="https://wakatime.com/@018cc8f5-2dde-4e5c-b91c-53407ae38aa2"><img src="https://wakatime.com/badge/user/018cc8f5-2dde-4e5c-b91c-53407ae38aa2.svg" alt="Total time coded since Jan 2 2024" /></a>
+<div style="text-align:center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/uncroos"
+  width="600"
+  height="300"
+/>
+</a>
     <div class="container">
         <img class="header-img" src="https://capsule-render.vercel.app/api?type=waving&text=나는%20안요한이다&&color=timeGradient&&animation=twinkling&height=200&fontSize=60" alt="Header Image"/>
         <h1>난 안요한이다<br>I'm Ahn Yo Han<br>私はアンヨハンです。</h1>

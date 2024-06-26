@@ -7,7 +7,6 @@
 </head>
 <body>
     <div class="container">
-        <img class="header-img" src="https://capsule-render.vercel.app/api?type=waving&text=나는%20안요한이다&&color=timeGradient&&animation=twinkling&height=200&fontSize=60" alt="Header Image"/>
         <h1>난 안요한이다<br>I'm Ahn Yo Han<br>私はアンヨハンです。</h1>
         <ul>
             <li>(現) 서울로봇고등학교 재학</li>

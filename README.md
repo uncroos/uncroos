@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahn Yo Han's GitHub Profile</title>
 </head>
 <body>
     <div class="container">
@@ -20,15 +19,16 @@
         <div class="badge-container">
             <h1>📚 STACKS 📚</h1>
             <img src="https://skillicons.dev/icons?i=python" alt="Python">
-            <img src="https://skillicons.dev/icons?i=dart" alt="Dart">
-            <img src="https://skillicons.dev/icons?i=c" alt="C">
-            <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
             <img src="https://skillicons.dev/icons?i=r" alt="R">
             <br>
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+            <img src="https://skillicons.dev/icons?i=dart" alt="Dart">
+            <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter">
+            <br>
+            <img src="https://skillicons.dev/icons?i=c" alt="C">
+            <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+            <br>
             <img src="https://skillicons.dev/icons?i=flask" alt="Flask">
             <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS">
-            <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter">
         </div>
         <div class="badge-container">
             <h1>🛠 TOOLS 🛠</h1>

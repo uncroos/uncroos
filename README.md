@@ -7,11 +7,13 @@
 </head>
 <body>
     <div class="container">
-        <h2>👋 안녕하세요<br> 서을로봇고등학교 시스템과 안요한입니다</h2>
+        <h1>👋 안녕하세요<h1><br> 
+        <h2>서을로봇고등학교 시스템과 안요한입니다</h2>
         <ul>
             <li>(現) 서울로봇고등학교 재학</li>
             <li>(現) SPAM 부원, (2024.3.21~)</li>
             <li>(現) Team 린 부원, (2023.12~)</li>
+            <li>(現) Team 린, 부원(2023.12~)</li>
             <li>(傳) Crerobot 부원(2023.4~2024.3.20)</li>
         </ul>
         <div class="badge-container">

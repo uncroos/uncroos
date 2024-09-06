@@ -2,14 +2,14 @@
 
 **서울로봇고등학교 시스템과**에서 재학 중이며 다양한 프로젝트와 팀 활동을 통해 기술과 경험을 쌓아가고 있습니다.
 
-### 🏫 학력 및 활동
+## 🏫 학력 및 활동
 - **서울로봇고등학교 재학 중**
 - **SPAM 부장** (2024.8.20 ~ 현재)
 - **Team 역천(逆天)** 리더 (2022.7 ~ 현재)
 - **Team 린** 부원 (2023.12 ~ 현재)
 - **Crerobot** 부원 (2023.4 ~ 2024.3.20)
 
-### 💻 기술 스택
+## 💻 기술 스택
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
@@ -21,7 +21,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Rest.js-000000?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 
-### 🌟 STATS
+## 🌟 STATS
 <div class="stats">
     <h1>⭐ STATS ⭐</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>

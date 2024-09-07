@@ -14,16 +14,22 @@
 <a href="https://wakatime.com/@018cc8f5-2dde-4e5c-b91c-53407ae38aa2"><img src="https://wakatime.com/badge/user/018cc8f5-2dde-4e5c-b91c-53407ae38aa2.svg" alt="Total time coded since Jan 2 2024" /></a>
 
 ## 💻 기술 스택
+
+### 프로그래밍 언어
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+### 프레임워크
 <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
+### 라이브러리
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Rest.js-000000?style=flat-square&logo=Node.js&logoColor=white"/></a>
+### 백엔드 프레임워크
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+### 기타
+<a href="#"><img src="https://img.shields.io/badge/Rest.js-000000?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
 ## 🌟 STATS
 <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>

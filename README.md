@@ -10,6 +10,9 @@
 - **Team 린** 부원 (2023.12 ~ 현재)
 - **Crerobot** 부원 (2023.4 ~ 2024.3.20)
 
+## 
+<a href="https://wakatime.com/@018cc8f5-2dde-4e5c-b91c-53407ae38aa2"><img src="https://wakatime.com/badge/user/018cc8f5-2dde-4e5c-b91c-53407ae38aa2.svg" alt="Total time coded since Jan 2 2024" /></a>
+
 ## 💻 기술 스택
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -23,17 +26,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 
 ## 🌟 STATS
-<div class="stats">
-    <h1>⭐ STATS ⭐</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=dark" alt="Top Languages"/>
 
-<a href="https://wakatime.com/@018cc8f5-2dde-4e5c-b91c-53407ae38aa2"><img src="https://wakatime.com/badge/user/018cc8f5-2dde-4e5c-b91c-53407ae38aa2.svg" alt="Total time coded since Jan 2 2024" /></a>
 
-<div style="text-align:center">
-    <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/uncroos" width="600" height="300"/>
-    </a>
-</div>
+## 🐣 animal
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/uncroos" width="600" height="300"/></a>
+
 

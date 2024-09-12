@@ -11,8 +11,7 @@
 - **Crerobot** 부원 (2023.4 ~ 2024.3.20)
 
 ## WorkTime
-<a href="https://wakatime.com/@uncroos"><img src="https://wakatime.com/badge/user/uncroos.svg" alt="Total time coded since Jan 2 2024" /></a>
-
+<a href="https://wakatime.com/@f1193f09-c0f6-4614-980f-2ac42ee154c3"><img src="https://wakatime.com/badge/user/f1193f09-c0f6-4614-980f-2ac42ee154c3.svg" alt="Total time coded since Sep 2 2024" /></a>
 ## 💻 기술 스택
 ### 프로그래밍 언어
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>

@@ -39,7 +39,7 @@
 
 ## 🌟 STATS
 <img src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=dark" alt="GitHub Stats"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&theme=dark" alt="Top Languages"/>
 
 
 ## 🐣 animal

@@ -47,3 +47,65 @@
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/uncroos" width="600" height="300"/></a>
 
 
+
+
+
+
+
+
+############
+using UnityEngine;
+
+public class ControllerArm : MonoBehaviour
+{
+    public GameObject gameObj;
+
+    // Drehgeschwindigkeit
+    public float rotationSpeed = 100f;
+
+    // Achse, um die rotiert werden soll
+    public Vector3 rotationAxis; // Vector3.up; // Standard: Y-Achse (Vector3.up)
+
+    // Start- und Endwinkel in Grad
+    public float startAngle = 0f;
+    public float endAngle = 0f;
+
+    // Der aktuelle Winkel des Objekts
+    private float currentAngle;
+
+    // Richtung der Rotation: 1 = vorwärts, -1 = rückwärts
+    private int rotationDirection = 1;
+
+    void Start()
+    {
+        currentAngle = startAngle;
+        
+    }
+
+    void Update()
+    {
+        // Berechne die Rotationsänderung basierend auf der Geschwindigkeit
+        float rotationInput = rotationSpeed * Time.deltaTime * rotationDirection;
+
+        // Berechne den neuen Winkel
+        float newAngle = currentAngle + rotationInput;
+
+        // Überprüfe, ob der neue Winkel die Grenzen überschreitet
+        if (newAngle > endAngle)
+        {
+            newAngle = endAngle;
+            rotationDirection = -1; // Richtung umkehren
+        }
+        else if (newAngle < startAngle)
+        {
+            newAngle = startAngle;
+            rotationDirection = 1; // Richtung umkehren
+        }
+
+        // Berechne den Unterschied und rotiere das Objekt
+        float angleDifference = newAngle - currentAngle;
+        gameObj.transform.Rotate(rotationAxis * angleDifference);
+        currentAngle = newAngle;
+    }
+}
+
